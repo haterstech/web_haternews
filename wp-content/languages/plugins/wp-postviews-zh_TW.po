@@ -1,0 +1,274 @@
+# Translation of Plugins - WP-PostViews - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - WP-PostViews - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-13 20:43:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - WP-PostViews - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://lesterchan.net"
+msgstr "http://lesterchan.net"
+
+#. Author of the plugin/theme
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin/theme
+msgid "Enables you to display how many times a post/page had been viewed."
+msgstr "可以顯示文章或頁面已被瀏覽幾次。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://lesterchan.net/portfolio/programming/php/"
+msgstr "http://lesterchan.net/portfolio/programming/php/"
+
+#: wp-postviews.php:928
+msgid "* If you are not using any category statistics, you can ignore it."
+msgstr "* 如果你沒有使用任何分類統計，你可以忽略它。"
+
+#: wp-postviews.php:925
+msgid "Seperate mutiple categories with commas."
+msgstr "使用英文半形逗點分隔多個文章分類。"
+
+#: wp-postviews.php:924
+msgid "Category IDs:"
+msgstr "分類 IDs:"
+
+#: wp-postviews.php:921
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> 來停用。"
+
+#: wp-postviews.php:920
+msgid "Maximum Post Title Length (Characters):"
+msgstr "文章標題的最長長度（字串）："
+
+#: wp-postviews.php:917
+msgid "No. Of Records To Show:"
+msgstr "顯示記錄次數："
+
+#: wp-postviews.php:910
+msgid "%s Only"
+msgstr "%s Only"
+
+#: wp-postviews.php:907
+msgid "All"
+msgstr "全部"
+
+#: wp-postviews.php:905
+msgid "Include Views From:"
+msgstr "包括瀏覽次數來源："
+
+#: wp-postviews.php:900
+msgid "Most Viewed By Category"
+msgstr "熱門瀏覽分類"
+
+#: wp-postviews.php:899
+msgid "Most Viewed"
+msgstr "最多瀏覽"
+
+#: wp-postviews.php:897
+msgid "Least Viewed By Category"
+msgstr "最新瀏覽分類"
+
+#: wp-postviews.php:896
+msgid "Least Viewed"
+msgstr "最新瀏覽"
+
+#: wp-postviews.php:894
+msgid "Statistics Type:"
+msgstr "統計類型："
+
+#: wp-postviews.php:891
+msgid "Title:"
+msgstr "標題："
+
+#: wp-postviews.php:830
+msgid "WP-PostViews views statistics"
+msgstr "WP-PostViews 瀏覽次數統計"
+
+#: wp-postviews.php:781 wp-postviews.php:831 wp-postviews.php:879
+msgid "Views"
+msgstr "瀏覽人次"
+
+#: wp-postviews.php:722
+msgid "<strong>%s</strong> view was generated."
+msgid_plural "<strong>%s</strong> views were generated."
+msgstr[0] "已產生 <strong>%s</strong> 瀏覽人次。"
+
+#: wp-postviews.php:708 wp-postviews.php:710 wp-postviews.php:740
+msgid "%s Most Viewed Page"
+msgid_plural "%s Most Viewed Pages"
+msgstr[0] "%s 熱門瀏覽頁面"
+
+#: wp-postviews.php:703 wp-postviews.php:705 wp-postviews.php:734
+msgid "%s Most Viewed Post"
+msgid_plural "%s Most Viewed Posts"
+msgstr[0] "%s 熱門瀏覽文章"
+
+#. #-#-#-#-#  tmp-wp-postviews.pot (WP-PostViews 1.73)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-postviews.php:690 wp-postviews.php:692 wp-postviews.php:720
+msgid "WP-PostViews"
+msgstr "WP-PostViews"
+
+#: wp-postviews.php:602
+msgid "There is no excerpt because this is a protected post."
+msgstr "那裡沒有文章摘要，因為這是一篇受保護的文章。"
+
+#: wp-postviews.php:275 wp-postviews.php:327 wp-postviews.php:383
+#: wp-postviews.php:439 wp-postviews.php:495 wp-postviews.php:551
+msgid "N/A"
+msgstr "N/A"
+
+#: wp-postviews.php:43
+msgid "PostViews"
+msgstr "文章瀏覽數"
+
+#: postviews-options.php:203
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: postviews-options.php:197
+msgid "Don't display on other pages"
+msgstr "不顯示在其它頁面"
+
+#: postviews-options.php:192
+msgid "Other Pages:"
+msgstr "其他頁面："
+
+#: postviews-options.php:187
+msgid "Don't display on search pages"
+msgstr "不顯示在搜尋結果頁"
+
+#: postviews-options.php:182
+msgid "Search Pages:"
+msgstr "搜尋頁："
+
+#: postviews-options.php:177
+msgid "Don't display on archive pages"
+msgstr "不顯示在文章彙整頁面"
+
+#: postviews-options.php:172
+msgid "Archive Pages:"
+msgstr "頁面彙整："
+
+#: postviews-options.php:167
+msgid "Don't display on pages"
+msgstr "不顯示在分頁"
+
+#: postviews-options.php:162
+msgid "Pages:"
+msgstr "分頁："
+
+#: postviews-options.php:157
+msgid "Don't display on single posts"
+msgstr "不顯示在單篇文章頁"
+
+#: postviews-options.php:152
+msgid "Single Posts:"
+msgstr "單篇文章："
+
+#: postviews-options.php:147
+msgid "Don't display on home page"
+msgstr "不顯示在首頁"
+
+#: postviews-options.php:146 postviews-options.php:156
+#: postviews-options.php:166 postviews-options.php:176
+#: postviews-options.php:186 postviews-options.php:196
+msgid "Display to registered users only"
+msgstr "僅對已註冊的會員顯示"
+
+#: postviews-options.php:145 postviews-options.php:155
+#: postviews-options.php:165 postviews-options.php:175
+#: postviews-options.php:185 postviews-options.php:195
+msgid "Display to everyone"
+msgstr "對任何人顯示"
+
+#: postviews-options.php:142
+msgid "Home Page:"
+msgstr "首頁："
+
+#: postviews-options.php:139
+msgid "These options specify where the view counts should be displayed and to whom. \tBy default view counts will be displayed to all visitors. Note that the theme files must contain a call to <code>the_views()</code> in order for any view count to be displayed."
+msgstr "這些選項指定要在那裏或像誰顯示瀏覽計數。\t預設情況下瀏覽計數將顯示給所有網站訪客觀看。注意主題檔案必須包括一個回調的 <code>the_views()</code> 程式碼，以便顯示任何瀏覽數。"
+
+#: postviews-options.php:138
+msgid "Display Options"
+msgstr "顯示選項"
+
+#: postviews-options.php:120
+msgid "Most Viewed Template:"
+msgstr "熱門瀏覽模板："
+
+#: postviews-options.php:112 postviews-options.php:131
+msgid "Restore Default Template"
+msgstr "回復預設模板"
+
+#: postviews-options.php:109 postviews-options.php:121
+msgid "Allowed Variables:"
+msgstr "允許的變數："
+
+#: postviews-options.php:108
+msgid "Views Template:"
+msgstr "瀏覽數模板："
+
+#: postviews-options.php:99
+msgid "You have caching enabled for your WordPress installation, by default WP-PostViews will use AJAX to update the view count. However in some cases, you might not want it."
+msgstr "你在你的 WordPress 網站中已安裝並啟用 Cache 外掛，預設情況下， WP-PostViews 將AJAX 來更新瀏覽次數。然而在一些情況下，你也許不希望這麼做。"
+
+#: postviews-options.php:92
+msgid "Use AJAX To Update Views:"
+msgstr "使用 AJAX 來更新瀏覽數："
+
+#: postviews-options.php:86 postviews-options.php:96
+msgid "Yes"
+msgstr "是"
+
+#: postviews-options.php:85 postviews-options.php:95
+msgid "No"
+msgstr "否"
+
+#: postviews-options.php:82
+msgid "Exclude Bot Views:"
+msgstr "排除機器人瀏覽數："
+
+#: postviews-options.php:77
+msgid "Registered Users Only"
+msgstr "只限註冊會員"
+
+#: postviews-options.php:76
+msgid "Guests Only"
+msgstr "只限訪客"
+
+#: postviews-options.php:75
+msgid "Everyone"
+msgstr "任何人"
+
+#: postviews-options.php:72
+msgid "Count Views From:"
+msgstr "瀏覽人次來自："
+
+#: postviews-options.php:58 wp-postviews.php:959
+msgid "views"
+msgstr "瀏覽人次"
+
+#: postviews-options.php:55 wp-postviews.php:958
+msgid "%VIEW_COUNT% views"
+msgstr "%VIEW_COUNT% 瀏覽人次"
+
+#: postviews-options.php:38
+msgid "No Post Views Option Updated"
+msgstr "沒有更新文章瀏覽數選項"
+
+#: postviews-options.php:33
+msgid "Updated"
+msgstr "已更新"
+
+#: postviews-options.php:28 postviews-options.php:69
+msgid "Post Views Options"
+msgstr "文章瀏覽數選項"

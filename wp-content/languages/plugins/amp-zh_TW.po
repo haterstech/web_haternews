@@ -1,0 +1,196 @@
+# Translation of Plugins - AMP - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-07 17:38:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - AMP - Stable (latest release)\n"
+
+#: includes/options/views/class-amp-options-menu-page.php:10
+msgid "This admin panel menu contains configuration options for the AMP Plugin."
+msgstr "這項管理面板選單包含了 AMP 外掛的組態設定。"
+
+#: includes/options/views/class-amp-options-menu-page.php:7
+msgid "AMP Plugin Options"
+msgstr "AMP 外掛設定"
+
+#: includes/options/views/class-amp-options-manager.php:33
+msgid "Sorry, you do not have the necessary permissions to perform this action"
+msgstr "抱歉！你沒有執行這項操作的必要權限"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:81
+msgid "Dismiss this notice."
+msgstr "關閉此通知。"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:68
+msgid "Failed to save the analytics entry. Please make sure that the JSON configuration is valid and unique."
+msgstr "無法儲存分析項目。請確認 JSON 組態為有效且並未重複。"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:65
+msgid "The analytics entry was successfully saved!"
+msgstr "分析項目已成功儲存！"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:49
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:47
+msgid "Save"
+msgstr "儲存"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:37
+msgid "JSON Configuration:"
+msgstr "JSON 組態:"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:30
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:26
+msgid "Type:"
+msgstr "類型:"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:15
+msgid "Add new entry:"
+msgstr "新增新項目:"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:13
+msgid "Analytics: %s"
+msgstr "分析: %s"
+
+#: includes/options/class-amp-options-menu.php:26
+msgid "AMP Options"
+msgstr "AMP 設定"
+
+#: includes/options/class-amp-analytics-options-submenu.php:30
+msgid "Analytics"
+msgstr "分析"
+
+#: includes/options/class-amp-analytics-options-submenu.php:29
+msgid "AMP Analytics Options"
+msgstr "AMP 分析設定"
+
+#: includes/amp-helper-functions.php:44
+msgid "is_amp_endpoint() was called before the 'parse_query' hook was called. This function will always return 'false' before the 'parse_query' hook is called."
+msgstr "呼叫 parse_query 勾點之前，會先呼叫 is_amp_endpoint() 函式。這項函式在呼叫 parse_query 勾點之前，會一直傳回 'false'。"
+
+#: includes/class-amp-content.php:102
+msgid "Sanitizer (%s) class does not exist"
+msgstr "Sanitizer (%s) 類別不存在"
+
+#: templates/meta-taxonomy.php:17
+msgid "Tags: %s"
+msgstr "標籤: %s"
+
+#: templates/meta-taxonomy.php:4
+msgid "Categories: %s"
+msgstr "分類: %s"
+
+#: templates/footer.php:7
+msgid "Back to top"
+msgstr "返回頂端"
+
+#: templates/footer.php:5
+msgid "Powered by %s"
+msgstr "採用 %s 建置"
+
+#: templates/footer.php:5
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: includes/settings/class-amp-customizer-design-settings.php:113
+msgid "Dark"
+msgstr "暗色"
+
+#: includes/settings/class-amp-customizer-design-settings.php:112
+msgid "Light"
+msgstr "亮色"
+
+#: includes/settings/class-amp-customizer-design-settings.php:75
+msgid "Color Scheme"
+msgstr "色調"
+
+#: includes/settings/class-amp-customizer-design-settings.php:66
+msgid "Header Background & Link Color"
+msgstr "頁首背景及連結顏色"
+
+#: includes/settings/class-amp-customizer-design-settings.php:56
+msgid "Header Text Color"
+msgstr "頁首文字顏色"
+
+#: includes/settings/class-amp-customizer-design-settings.php:48
+msgid "Design"
+msgstr "設計"
+
+#: includes/class-amp-post-template.php:222
+msgid "View Comments"
+msgstr "檢視迴響"
+
+#: includes/class-amp-post-template.php:221
+msgid "Leave a Comment"
+msgstr "發表迴響"
+
+#: includes/admin/class-amp-customizer.php:114
+msgid "<a href=\"%s\" target=\"_blank\">The AMP Project</a> is a Google-led initiative that dramatically improves loading speeds on phones and tablets. You can use the Customizer to preview changes to your AMP template before publishing them."
+msgstr "<a href=\"%s\" target=\"_blank\">AMP</a> 專案由 Google 所主導，可藉由它大幅加速手機及平板的頁面載入速度。在發佈 AMP 版頁面前，你可以透過 Customizer 預覽你對 AMP 範本進行的變更。"
+
+#: includes/amp-post-template-actions.php:87
+msgid "Analytics entry for %s is missing one of the following keys: `type`, `attributes`, or `config_data` (array keys: %s)"
+msgstr "%s 的分析項目缺少以下其中之一的值: type、attributes 或 config_data (陣列值為 %s)"
+
+#. Author URI of the plugin/theme
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+msgid "Add AMP support to your WordPress site."
+msgstr "為你的 WordPress 網站加入 AMP 支援。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/automattic/amp-wp"
+msgstr "https://github.com/automattic/amp-wp"
+
+#. #-#-#-#-#  amp-code.pot (AMP 0.5.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/class-amp-customizer.php:113 includes/admin/functions.php:69
+#: includes/admin/functions.php:70
+#: includes/options/class-amp-options-menu.php:27
+msgid "AMP"
+msgstr "AMP"
+
+#: back-compat/templates-v0-3/meta-time.php:6 templates/meta-time.php:6
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "發表於 %s前"
+
+#: back-compat/templates-v0-3/meta-taxonomy.php:1
+#: back-compat/templates-v0-3/meta-taxonomy.php:9 templates/meta-taxonomy.php:1
+#: templates/meta-taxonomy.php:11
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: includes/class-amp-post-template.php:399
+msgid "Path validation for template (%s) failed. Path cannot traverse and must be located in `%s`."
+msgstr "範本 (%s) 路徑驗證失敗。無法穿透路徑，路徑必須位於 '%s' 中。"
+
+#: includes/class-amp-post-template.php:107
+msgid "Called for non-existant key (\"%s\")."
+msgstr "呼叫了不存在的值 (\"%s\")。"
+
+#: includes/class-amp-content.php:109
+msgid "Sanitizer (%s) must extend `AMP_Base_Sanitizer`"
+msgstr "Sanitizer (%s) 必須為 'AMP_Base_Sanitizer' 進行延伸"
+
+#: includes/class-amp-content.php:66
+msgid "Embed Handler (%s) must extend `AMP_Embed_Handler`"
+msgstr "Embed Handler (%s) 必須為 'AMP_Embed_Handler' 進行延伸"

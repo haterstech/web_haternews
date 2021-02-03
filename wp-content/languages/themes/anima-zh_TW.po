@@ -1,0 +1,1860 @@
+# Translation of Themes - Anima in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Anima package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-23 04:33:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Anima\n"
+
+#. Description of the plugin/theme
+msgid "Anima is a free, highly customizable WordPress theme created for personal and business sites alike. Photography and portfolio, freelancer and corporate sites will also greatly benefit from the theme’s clean, responsive and modern design. A few perks: eCommerce (WooCommerce) support, WPML, qTranslate, Polylang, RTL, SEO ready, wide and boxed layouts, masonry, editable content and sidebars layout and widths, social icons, Google fonts and other typography options, customizable colors. Not to mention the landing page with a slider, countless featured icon blocks, boxes and text areas, all editable."
+msgstr "Anima 不僅免費還是可高度自定的 WordPress 主題，滿足您建立個人或商業網站的需求。主題的簡潔、靈敏與現代感的設計同時也有助於攝影與作品集、自由作家與組織類型的網站。支援電子商務 (WooCommerce)、WPML、qTranslate、Polylang、RTL、SEO ready、擁有滿版全幅與固定框架的外觀、緊貼柱狀、可編輯框架內容與側欄外觀以及寬度、社交圖示、Google 字型與其他字型樣式設定、可自訂色彩。更不用提幻燈片的頁面樣式、無數精選圖示區塊、框格與文字區，全部皆可編輯。"
+
+#. Theme Name of the plugin/theme
+msgid "Anima"
+msgstr "Anima"
+
+#: admin/options.php:786
+msgid "Overlay Opacity"
+msgstr "重疊不透明度"
+
+#: admin/options.php:362 admin/options.php:1455
+msgid "Contained"
+msgstr "符合"
+
+#: admin/options.php:297
+msgid "4 Columns"
+msgstr "4行式"
+
+#: admin/options.php:297
+msgid "3 Columns"
+msgstr "3行式"
+
+#: admin/options.php:297
+msgid "2 Columns"
+msgstr "2行式"
+
+#: admin/options.php:297
+msgid "1 Column"
+msgstr "1行式"
+
+#: admin/options.php:297
+msgid "All in a row"
+msgstr "全在同列"
+
+#: admin/options.php:258
+msgid "Right Sidebar Width"
+msgstr "右側欄寬度"
+
+#: admin/options.php:251
+msgid "Left Sidebar Width"
+msgstr "左側欄寬度"
+
+#: admin/options.php:244
+msgid "Site Width"
+msgstr "站台總寬度"
+
+#: admin/options.php:829
+msgid "Slider Background"
+msgstr "幻燈片背景"
+
+#: includes/setup.php:120
+msgid "glasses"
+msgstr "眼鏡"
+
+#: single.php:62
+msgid "Next Post"
+msgstr "下一篇"
+
+#: single.php:61
+msgid "Previous Post"
+msgstr "上一篇"
+
+#: sidebar-right.php:17
+msgid "Right Sidebar"
+msgstr "右側欄"
+
+#: sidebar-left.php:21 sidebar-right.php:21
+msgid "To hide this sidebar, switch to a different Layout via the <a href=\"%s\">Theme Customizations</a>."
+msgstr "隱藏此側邊欄，透過<a href=\"%s\">主題自訂</a>切換不同外觀樣式。"
+
+#: sidebar-left.php:20 sidebar-right.php:20
+msgid "You currently have no widgets set in this sidebar. You can add widgets via the <a href=\"%s\">Dashboard</a>."
+msgstr "目前您沒有任何小工具在此側邊欄。您可以透過<a href=\"%s\">［控制台］</a>新增小工具。"
+
+#: searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr "搜尋"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "搜尋："
+
+#: includes/tgmpa.php:110
+msgid "Return to Suggested Plugins Installer"
+msgstr "返回至建議外掛安裝程式"
+
+#: includes/tgmpa.php:53
+msgid "Anima Addons"
+msgstr "Anima 附加元件"
+
+#: includes/tgmpa.php:52
+msgid "Anima Suggested Plugins"
+msgstr "Anima 建議外掛"
+
+#: includes/setup.php:175
+msgid "Skip to content"
+msgstr "跳轉至內容"
+
+#: includes/setup.php:125
+msgid "laptop"
+msgstr "膝上型電腦"
+
+#: includes/setup.php:56
+msgid "Footer Navigation"
+msgstr "頁尾導航"
+
+#: includes/setup.php:55 sidebar-left.php:17
+msgid "Left Sidebar"
+msgstr "左側欄"
+
+#: includes/setup.php:54
+msgid "Primary Navigation"
+msgstr "主要導航"
+
+#: includes/meta.php:40
+msgid "Default Theme Layout"
+msgstr "主題預設外觀"
+
+#: includes/meta.php:18
+msgid "Static Page Layout"
+msgstr "靜態頁面外觀"
+
+#: includes/loop.php:257
+msgid "Newer posts"
+msgstr "較新篇"
+
+#: includes/loop.php:253
+msgid "Older posts"
+msgstr "較舊篇"
+
+#: includes/loop.php:203
+msgid "Featured"
+msgstr "精選"
+
+#: includes/loop.php:180
+msgid "Tagged"
+msgstr "標記"
+
+#: includes/loop.php:160
+msgid "Date"
+msgstr "日期"
+
+#: includes/loop.php:130
+msgid "Posted by "
+msgstr "撰寫"
+
+#: includes/loop.php:123
+msgid "on"
+msgstr "於"
+
+#: includes/loop.php:109 includes/loop.php:136
+msgid "View all posts by %s"
+msgstr "檢視 %s 全部的撰寫"
+
+#: includes/loop.php:103
+msgid "Author"
+msgstr "撰寫者"
+
+#: includes/loop.php:85
+msgid "Categories"
+msgstr "類別"
+
+#: includes/core.php:410
+msgid "Page"
+msgstr "頁面"
+
+#: includes/core.php:409
+msgid "Post format"
+msgstr "頁面格式"
+
+#: includes/core.php:407
+msgid "Articles posted by"
+msgstr "文章撰寫"
+
+#: includes/core.php:406
+msgid "Posts tagged"
+msgstr "文章標記"
+
+#: includes/core.php:405
+msgid "Search results for"
+msgstr "搜尋結果"
+
+#: includes/core.php:404
+msgid "Archive for category"
+msgstr "分類彙整"
+
+#: includes/core.php:403
+msgid "Home"
+msgstr "首頁"
+
+#: includes/core.php:314
+msgid "Semantic Personal Publishing Platform"
+msgstr "語意式個人發佈平台"
+
+#: includes/core.php:311
+msgid "Powered by"
+msgstr "技術提供"
+
+#: includes/core.php:190 search.php:18
+msgid "Search Results for: %s"
+msgstr "搜尋結果：%s"
+
+#: includes/comments.php:139 includes/comments.php:140
+msgctxt "noun"
+msgid "Comment"
+msgstr "迴響"
+
+#: includes/comments.php:128 includes/comments.php:129
+msgid "Website"
+msgstr "網站"
+
+#: includes/comments.php:124 includes/comments.php:125
+msgid "Email"
+msgstr "電郵"
+
+#: includes/comments.php:120 includes/comments.php:121
+msgid "Name"
+msgstr "名稱"
+
+#: includes/comments.php:90
+msgid "Leave a comment"
+msgstr "發表留言"
+
+#: includes/comments.php:36
+msgid "Your comment is awaiting moderation."
+msgstr "您的迴響需要等待審核。"
+
+#: includes/comments.php:66
+msgid "Reply"
+msgstr "回覆"
+
+#. translators: 1: date, 2: time
+#: includes/comments.php:53
+msgid "at"
+msgstr "在"
+
+#: includes/comments.php:25 includes/comments.php:61
+msgid "(Edit)"
+msgstr "（編輯）"
+
+#: includes/comments.php:25
+msgid "Pingback: "
+msgstr "通告："
+
+#: image.php:66
+msgid "Next image"
+msgstr "下一張圖片"
+
+#: image.php:65
+msgid "Previous image"
+msgstr "前一張圖片"
+
+#: image.php:38
+msgid "Published in"
+msgstr "發佈"
+
+#: image.php:31
+msgid "pixels"
+msgstr "像素"
+
+#: image.php:27
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "完整大小"
+
+#: header.php:44
+msgid "Primary Menu"
+msgstr "主要選單"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安裝外掛 %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3518
+msgid "All installations have been completed."
+msgstr "完成所有安裝。"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s 成功安裝。"
+
+#: cryout/tgmpa-class.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "正在開始處裡安裝。部分主機可能這個過程中需要花上幾分鐘，請耐心等候。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝並啟用 %1$s 外掛 (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3510
+msgid "All installations and activations have been completed."
+msgstr "完成所有安裝並啟用。"
+
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Hide Details"
+msgstr "隱藏詳細資料"
+
+#: cryout/tgmpa-class.php:3509 cryout/tgmpa-class.php:3517
+msgid "Show Details"
+msgstr "顯示詳細資料"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安奘並成功啟用。"
+
+#: cryout/tgmpa-class.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "正在開始處裡安裝並啟用。部分主機可能這個過程中需要花上幾分鐘，請耐心等候。"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安裝失敗。"
+
+#. translators: 1: plugin name, 2: error message.
+#: cryout/tgmpa-class.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安裝 %1$s 時發生錯誤：<strong>%2$s</strong>。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: cryout/tgmpa-class.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在更新外掛 %1$s (%2$d/%3$d)"
+
+#: cryout/tgmpa-class.php:3158
+msgid "Plugin activation failed."
+msgstr "啟用外掛失敗。"
+
+#: cryout/tgmpa-class.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "目前沒有可以啟用的外掛。"
+
+#: cryout/tgmpa-class.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "沒有選擇要啟用的外掛。沒有採取任何動作。"
+
+#: cryout/tgmpa-class.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "目前沒有可以更新的外掛。"
+
+#: cryout/tgmpa-class.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "目前沒有可以安裝的外掛。"
+
+#: cryout/tgmpa-class.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "沒有選擇要更新的外掛。沒有採取任何動作。"
+
+#: cryout/tgmpa-class.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "沒有選擇要安裝的外掛。沒有採取任何動作。"
+
+#: cryout/tgmpa-class.php:2726
+msgid "Activate"
+msgstr "啟用"
+
+#: cryout/tgmpa-class.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: cryout/tgmpa-class.php:2717
+msgid "Install"
+msgstr "安裝"
+
+#: cryout/tgmpa-class.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "來自外掛作者的更新訊息："
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2614
+msgid "Activate %2$s"
+msgstr "啟用 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2608
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: cryout/tgmpa-class.php:2603
+msgid "Install %2$s"
+msgstr "安裝 %2$s"
+
+#: cryout/tgmpa-class.php:2554
+msgid "Status"
+msgstr "狀態"
+
+#: cryout/tgmpa-class.php:2553
+msgid "Version"
+msgstr "版本"
+
+#: cryout/tgmpa-class.php:2549
+msgid "Type"
+msgstr "類型"
+
+#: cryout/tgmpa-class.php:2548
+msgid "Source"
+msgstr "來源"
+
+#: cryout/tgmpa-class.php:2547
+msgid "Plugin"
+msgstr "外掛"
+
+#: cryout/tgmpa-class.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "沒有外掛需要安裝、更新或啟用。"
+
+#: cryout/tgmpa-class.php:2510
+msgid "Available version:"
+msgstr "可用的版本："
+
+#: cryout/tgmpa-class.php:2498
+msgid "Minimum required version:"
+msgstr "最低版本需求："
+
+#: cryout/tgmpa-class.php:2490
+msgid "Installed version:"
+msgstr "安裝的版本："
+
+#: cryout/tgmpa-class.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "啟用 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可用的更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安裝 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: cryout/tgmpa-class.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: cryout/tgmpa-class.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "正在安裝 %1$s ，更新狀態為 %2$s"
+
+#: cryout/tgmpa-class.php:2333
+msgid "Update recommended"
+msgstr "建議更新"
+
+#: cryout/tgmpa-class.php:2330
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: cryout/tgmpa-class.php:2327
+msgid "Required Update not Available"
+msgstr "可用的更新不可用"
+
+#: cryout/tgmpa-class.php:2321
+msgid "Active"
+msgstr "啟用"
+
+#: cryout/tgmpa-class.php:2319
+msgid "Installed But Not Activated"
+msgstr "安裝但未啟用"
+
+#: cryout/tgmpa-class.php:2315
+msgid "Not Installed"
+msgstr "未安裝"
+
+#: cryout/tgmpa-class.php:2298
+msgid "Pre-Packaged"
+msgstr "預先封包"
+
+#: cryout/tgmpa-class.php:2295
+msgid "External Source"
+msgstr "外部來源"
+
+#: cryout/tgmpa-class.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 存放庫"
+
+#: cryout/tgmpa-class.php:2276
+msgid "Recommended"
+msgstr "建議"
+
+#: cryout/tgmpa-class.php:2273
+msgid "Required"
+msgstr "需要"
+
+#. translators: %s: version number
+#: cryout/tgmpa-class.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: cryout/tgmpa-class.php:1121 cryout/tgmpa-class.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "與"
+
+#: cryout/tgmpa-class.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "遠端外掛套件由多個檔案組成，但這些檔案不是以資料夾的方式封裝。"
+
+#: cryout/tgmpa-class.php:934 cryout/tgmpa-class.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "請洽外掛提供者並詢問有關在 WordPress 中使用該外掛的使用方法。"
+
+#: cryout/tgmpa-class.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "遠端外掛套件在資料夾中不包含所需的代稱，變更資料夾名稱也不會有作用。"
+
+#: cryout/tgmpa-class.php:523
+msgid "Update Required"
+msgstr "需要更新"
+
+#: cryout/tgmpa-class.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "此外掛需要更新才能與您的主題相容。"
+
+#: cryout/tgmpa-class.php:397 includes/tgmpa.php:121
+msgid "Please contact the administrator of this site for help."
+msgstr "請洽該站感管理員尋求協助。"
+
+#: cryout/tgmpa-class.php:396 includes/tgmpa.php:120
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "有一個或多個必要或建議外掛需要安裝、更新或啟用。"
+
+#: cryout/tgmpa-class.php:395 includes/tgmpa.php:119
+msgid "Dismiss this notice"
+msgstr "關閉此通知"
+
+#. translators: 1: dashboard link.
+#: cryout/tgmpa-class.php:394 includes/tgmpa.php:118
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "安裝所有外掛並已成功啟用。 %1$s"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:392 includes/tgmpa.php:116
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "外掛尚未啟用。此主題需要 %s 更新的版本。請更新外掛。"
+
+#. translators: 1: plugin name.
+#: cryout/tgmpa-class.php:390 includes/tgmpa.php:114
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "沒有採取任何動作。%1$s外掛已啟用。"
+
+#: cryout/tgmpa-class.php:388 cryout/tgmpa-class.php:2952
+#: includes/tgmpa.php:112
+msgid "The following plugin was activated successfully:"
+msgstr "以下外掛成功啟用："
+
+#: cryout/tgmpa-class.php:387 cryout/tgmpa-class.php:3159
+#: includes/tgmpa.php:111
+msgid "Plugin activated successfully."
+msgstr "外掛成功啟用。"
+
+#: cryout/tgmpa-class.php:386 cryout/tgmpa-class.php:827
+#: cryout/tgmpa-class.php:2533 cryout/tgmpa-class.php:3580
+msgid "Return to the Dashboard"
+msgstr "返回至［控制台］"
+
+#: cryout/tgmpa-class.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "返回至必要外掛安裝程式"
+
+#: cryout/tgmpa-class.php:380 includes/tgmpa.php:105
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "開始啟用外掛"
+
+#: cryout/tgmpa-class.php:375 includes/tgmpa.php:100
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "開始更新外掛"
+
+#. translators: 1: plugin name(s).
+#: cryout/tgmpa-class.php:370 includes/tgmpa.php:95
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "開始安裝外掛"
+
+#: cryout/tgmpa-class.php:333 includes/tgmpa.php:58
+msgid "Something went wrong with the plugin API."
+msgstr "外掛應用程式介面 (API) 發生錯誤。"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:332 includes/tgmpa.php:57
+msgid "Updating Plugin: %s"
+msgstr "正在更新外掛：%s"
+
+#. translators: %s: plugin name.
+#: cryout/tgmpa-class.php:330 includes/tgmpa.php:55
+msgid "Installing Plugin: %s"
+msgstr "正在安裝外掛：%s"
+
+#: cryout/tgmpa-class.php:328
+msgid "Install Plugins"
+msgstr "安裝外掛"
+
+#: cryout/tgmpa-class.php:327
+msgid "Install Required Plugins"
+msgstr "安裝必要外掛"
+
+#: cryout/back-compat.php:32 cryout/back-compat.php:42
+#: cryout/back-compat.php:55
+msgid "%1$s requires at least WordPress version 4.1. You are running version %2$s. Please upgrade and try again."
+msgstr "%1$s 的最低需要 WordPress 4.1 版。您使用的版本是 %2$s 。請在更新後重試。"
+
+#: cryout/admin-functions.php:30
+msgid "Read the full post"
+msgstr "閱讀完整文章"
+
+#: cryout/admin-functions.php:29
+msgid "Posted on"
+msgstr "撰寫於"
+
+#: cryout/admin-functions.php:25
+msgid "No update news."
+msgstr "沒有更新消息。"
+
+#: content/content-page.php:29 content/content.php:41 single.php:43
+msgid "Pages:"
+msgstr "頁面："
+
+#: content/content-page.php:21 includes/loop.php:192
+msgid "Edit"
+msgstr "編輯"
+
+#: content/content-notfound.php:12
+msgid "No search results for: <em>%s</em>"
+msgstr "沒有找到搜尋結果： <em>%s</em>"
+
+#: content/content-notfound.php:10
+msgid "Nothing Found"
+msgstr "沒有找到"
+
+#: content/author-bio.php:28
+msgid "View all posts by "
+msgstr "檢視全部撰寫"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "關閉迴響。"
+
+#: comments.php:21 includes/comments.php:91 includes/comments.php:92
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s 則迴響"
+
+#: admin/options.php:1889
+msgid "Content After"
+msgstr "於內容後"
+
+#: admin/options.php:1882
+msgid "Content Before"
+msgstr "於內容前"
+
+#: admin/options.php:1875
+msgid "You can configure how many columns the footer displays from the theme options"
+msgstr "您可以在主題選項中設定頁尾顯示的行數"
+
+#: admin/options.php:1867
+msgid "Sidebar Right"
+msgstr "右側欄"
+
+#: admin/options.php:1860
+msgid "Sidebar Left"
+msgstr "左側欄"
+
+#: admin/options.php:1552
+msgid "<br>Only use these options to troubleshoot issues."
+msgstr "<br>僅在疑難排解時使用這些選項。"
+
+#: admin/options.php:1549
+msgid "Editor Styles"
+msgstr "編輯樣式"
+
+#: admin/options.php:1541
+msgid "Autoscroll"
+msgstr "自動捲動"
+
+#: admin/options.php:1535
+msgid "Enable on mobiles"
+msgstr "行動裝置中啟用"
+
+#: admin/options.php:1533
+msgid "FitVids"
+msgstr "影片自動對齊"
+
+#: admin/options.php:1525
+msgid "JS Defer loading"
+msgstr "JS 延遲載入"
+
+#: admin/options.php:1517
+msgid "Masonry"
+msgstr "緊貼柱狀"
+
+#: admin/options.php:1509
+msgid "Select where social icons should be visible in.<br><br><strong>Social Icons are defined using the <a href=\"%1$s\" target=\"_blank\">social icons menu</a></strong>. Read the <a href=\"%2$s\" target=\"_blank\">theme documentation</a> on how to create a social menu."
+msgstr "選擇社交圖示顯示的位置。<br><br><strong>社交圖示明確使用在<a href=\"%1$s\" target=\"_blank\">社交圖示選單</a></strong>。參閱<a href=\"%2$s\" target=\"_blank\">主題說明文件</a> 瞭解如何建立社交選單。"
+
+#: admin/options.php:1508
+msgid "Display in Right Sidebar"
+msgstr "顯示在右側欄"
+
+#: admin/options.php:1502
+msgid "Display in Left Sidebar"
+msgstr "顯示在左側欄"
+
+#: admin/options.php:1496
+msgid "Display in Footer"
+msgstr "顯示在頁尾"
+
+#: admin/options.php:1490
+msgid "Display in Header"
+msgstr "顯示在頁首"
+
+#: admin/options.php:1479
+msgid "Use Featured Images in Header"
+msgstr "在頁首使用精選圖片"
+
+#: admin/options.php:1464
+msgid "Center Bottom"
+msgstr "中下方"
+
+#: admin/options.php:1464
+msgid "Center Center"
+msgstr "置中"
+
+#: admin/options.php:1464
+msgid "Center Top"
+msgstr "中上方"
+
+#: admin/options.php:1464
+msgid "Right Bottom"
+msgstr "右下方"
+
+#: admin/options.php:1464
+msgid "Right Center"
+msgstr "右中方"
+
+#: admin/options.php:1464
+msgid "Right Top"
+msgstr "右上方"
+
+#: admin/options.php:1464
+msgid "Left Bottom"
+msgstr "左下方"
+
+#: admin/options.php:1464
+msgid "Left Center"
+msgstr "左中方"
+
+#: admin/options.php:1464
+msgid "Left Top"
+msgstr "左上方"
+
+#: admin/options.php:1462
+msgid "Featured Image Crop Position"
+msgstr "精選圖片剪裁位置"
+
+#: admin/options.php:1457
+msgid "<strong>Contained</strong> will scale depending on the viewed resolution<br><strong>Cropped</strong> will always have the configured height."
+msgstr "<strong>自適應</strong>會依照檢視解析度縮放。<br><strong>剪裁</strong> 永遠需要編排高度。"
+
+#: admin/options.php:1456
+msgid "Featured Image Behaviour"
+msgstr "精選圖片呈現方式"
+
+#: admin/options.php:1440
+msgid "Featured Image Height (in pixels)"
+msgstr "精選圖片高度（像素）"
+
+#: admin/options.php:1432
+msgid "Auto Select Image From Content"
+msgstr "自動從內容選擇圖片"
+
+#: admin/options.php:1424
+msgid "Featured Images"
+msgstr "精選圖片"
+
+#: admin/options.php:1416
+msgid "Continue Reading Label"
+msgstr "繼續閱讀標籤"
+
+#: admin/options.php:1410
+msgid "Excerpt Suffix"
+msgstr "摘要末端符號"
+
+#: admin/options.php:1404
+msgid "Excerpt Length (words)"
+msgstr "摘要長度（字數）"
+
+#: admin/options.php:1396
+msgid "Standard Posts in Categories/Archives"
+msgstr "在類別／彙整的標準文章"
+
+#: admin/options.php:1390
+msgid "Inherit"
+msgstr "繼承"
+
+#: admin/options.php:1388
+msgid "Sticky Posts on Homepage"
+msgstr "固定在首頁的文章"
+
+#: admin/options.php:1383
+msgid "Post formats always display full posts."
+msgstr "文章格式永遠顯示完整文章。"
+
+#: admin/options.php:1382 admin/options.php:1390 admin/options.php:1398
+msgid "Full Post"
+msgstr "完整文章"
+
+#: admin/options.php:1380
+msgid "Standard Posts On Homepage"
+msgstr "在首頁的標準文章"
+
+#: admin/options.php:1373
+msgid "Comment Form Width (pixels)"
+msgstr "迴響表單寬度（像素）"
+
+#: admin/options.php:1368
+msgid "Change to labels for better compatibility with comment-related plugins."
+msgstr "變更標籤會與迴響相關的外掛有更好的相容性。vv"
+
+#: admin/options.php:1367
+msgid "Labels"
+msgstr "標籤"
+
+#: admin/options.php:1367
+msgid "Placeholders"
+msgstr "預留文字"
+
+#: admin/options.php:1365
+msgid "Comment Field Label"
+msgstr "迴響欄位標籤"
+
+#: admin/options.php:1359
+msgid "Relative"
+msgstr "相對"
+
+#: admin/options.php:1359
+msgid "Specific"
+msgstr "特定"
+
+#: admin/options.php:1357
+msgid "Comment Date Format"
+msgstr "迴響日期格式"
+
+#: admin/options.php:1351
+msgid "Hide everywhere"
+msgstr "全部隱藏"
+
+#: admin/options.php:1351
+msgid "Hide in pages"
+msgstr "頁面隱藏"
+
+#: admin/options.php:1351
+msgid "Hide in posts"
+msgstr "文章隱藏"
+
+#: admin/options.php:1351
+msgid "Show"
+msgstr "顯示"
+
+#: admin/options.php:1349
+msgid "'Comments Are Closed' Text"
+msgstr "［關閉迴響］文字"
+
+#: admin/options.php:1341
+msgid "Home page"
+msgstr "首頁"
+
+#: admin/options.php:1335
+msgid "Archive pages"
+msgstr "彙整"
+
+#: admin/options.php:1329
+msgid "Pages"
+msgstr "頁面"
+
+#: admin/options.php:1316
+msgid "Choose meta information to show on posts."
+msgstr "選擇顯示文章的摘要訊息。"
+
+#: admin/options.php:1315
+msgid "Display Comments"
+msgstr "顯示迴響"
+
+#: admin/options.php:1309
+msgid "Display Tags"
+msgstr "顯示標籤"
+
+#: admin/options.php:1303
+msgid "Display Category"
+msgstr "顯示類別"
+
+#: admin/options.php:1297
+msgid "Display Time"
+msgstr "顯示時間"
+
+#: admin/options.php:1291
+msgid "Display Date"
+msgstr "顯示日期"
+
+#: admin/options.php:1285
+msgid "Display Author"
+msgstr "顯示撰寫者"
+
+#: admin/options.php:1275
+msgid "With Background"
+msgstr "有背景"
+
+#: admin/options.php:1275
+msgid "With Border"
+msgstr "有邊界"
+
+#: admin/options.php:1275
+msgid "Plain"
+msgstr "樸素"
+
+#: admin/options.php:1273
+msgid "Post Captions"
+msgstr "文章標題"
+
+#: admin/options.php:1248 admin/options.php:1252 admin/options.php:1256
+#: admin/options.php:1260 admin/options.php:1264
+msgid "Style %d"
+msgstr "樣式 %d"
+
+#: admin/options.php:1244
+msgid "No Styling"
+msgstr "沒有樣式"
+
+#: admin/options.php:1241
+msgid "Post Images"
+msgstr "文章圖片"
+
+#: admin/options.php:1232
+msgid "Add Search to Footer Menu"
+msgstr "在頁尾選單新增搜尋"
+
+#: admin/options.php:1226
+msgid "Add Search to Main Menu"
+msgstr "在主選單新增搜尋"
+
+#: admin/options.php:1217
+msgid "Slide Right"
+msgstr "右側滑入"
+
+#: admin/options.php:1217
+msgid "Slide Left"
+msgstr "左側滑入"
+
+#: admin/options.php:1217
+msgid "Slide"
+msgstr "滑入"
+
+#: admin/options.php:1217
+msgid "Fade"
+msgstr "漸淡"
+
+#: admin/options.php:1217
+msgid "None"
+msgstr "無"
+
+#: admin/options.php:1215
+msgid "Article Animation on Scroll"
+msgstr "文章捲動動畫效果"
+
+#: admin/options.php:1210
+msgid "These decorations apply to certain theme elements."
+msgstr "這些結構會套用某些主體元素。"
+
+#: admin/options.php:1209
+msgid "Rounded Corners"
+msgstr "圓角"
+
+#: admin/options.php:1203
+msgid "Shadow"
+msgstr "陰影"
+
+#: admin/options.php:1197
+msgid "Border"
+msgstr "邊框"
+
+#: admin/options.php:1189
+msgid "Insert custom text or basic HTML code that will appear in your footer. <br /> You can use HTML to insert links, images and special characters."
+msgstr "插入自訂文字或基本 HTML 編碼會顯示在您的頁尾。 <br /> 您可以使用 HTML 崁入連結、圖片與特別的字元。"
+
+#: admin/options.php:1188
+msgid "Custom Footer Text"
+msgstr "自訂頁尾文字"
+
+#: admin/options.php:1182
+msgid "Uniform Boxes"
+msgstr "主題圓框"
+
+#: admin/options.php:1182
+msgid "Size Emphasis"
+msgstr "凸顯尺寸"
+
+#: admin/options.php:1180
+msgid "Tags Cloud Appearance"
+msgstr "標籤雲外觀"
+
+#: admin/options.php:1174
+msgid "Bordered"
+msgstr "邊框"
+
+#: admin/options.php:1174
+msgid "Stripped"
+msgstr "深淺交錯"
+
+#: admin/options.php:1174
+msgid "Clean"
+msgstr "清潔"
+
+#: admin/options.php:1174
+msgid "No border"
+msgstr "無邊框"
+
+#: admin/options.php:1172
+msgid "Tables Style"
+msgstr "表格樣式"
+
+#: admin/options.php:1166
+msgid "In footer"
+msgstr "顯示在頁尾"
+
+#: admin/options.php:1166
+msgid "Bottom of page"
+msgstr "維持在畫面底部"
+
+#: admin/options.php:1164
+msgid "Back to Top Button"
+msgstr "回到頁首按鈕"
+
+#: admin/options.php:1158
+msgid "Always Hidden"
+msgstr "永遠維持隱藏"
+
+#: admin/options.php:1158
+msgid "Hide on Categories"
+msgstr "在類別中隱藏"
+
+#: admin/options.php:1158
+msgid "Hide on Pages"
+msgstr "在頁面中隱藏"
+
+#: admin/options.php:1158
+msgid "Always Visible"
+msgstr "永遠維持顯示"
+
+#: admin/options.php:1156
+msgid "Page/Category Titles"
+msgstr "頁面／類別標題"
+
+#: admin/options.php:1150
+msgid "Absolute"
+msgstr "主題動態樣式"
+
+#: admin/options.php:1148
+msgid "Single Post Prev/Next Navigation"
+msgstr "頁面文章上／下篇導航"
+
+#: admin/options.php:1140
+msgid "Numbered Pagination"
+msgstr "數字頁碼"
+
+#: admin/options.php:1134 admin/options.php:1142 admin/options.php:1150
+#: admin/options.php:1481 admin/options.php:1519 admin/options.php:1527
+#: admin/options.php:1535 admin/options.php:1543 admin/options.php:1551
+msgid "Disable"
+msgstr "停用"
+
+#: admin/options.php:1134 admin/options.php:1142 admin/options.php:1481
+#: admin/options.php:1519 admin/options.php:1527 admin/options.php:1535
+#: admin/options.php:1543 admin/options.php:1551
+msgid "Enable"
+msgstr "啟用"
+
+#: admin/options.php:1132
+msgid "Breadcrumbs"
+msgstr "頁面位階層級"
+
+#: admin/options.php:1122
+msgid "Paragraph Indentation"
+msgstr "段落縮排"
+
+#: admin/options.php:1115
+msgid "Paragraph Spacing"
+msgstr "段落間距"
+
+#: admin/options.php:1109
+msgid "Justify"
+msgstr "左右對齊"
+
+#: admin/options.php:1107
+msgid "Text Alignment"
+msgstr "文字對齊"
+
+#: admin/options.php:1100
+msgid "Line Height"
+msgstr "行高"
+
+#: admin/options.php:1071
+msgid "Headings"
+msgstr "標題"
+
+#: admin/options.php:1041
+msgid "Post metas"
+msgstr "文章摘要顯示"
+
+#: admin/options.php:1012
+msgid "Post/Page Titles"
+msgstr "文章／頁面標題"
+
+#: admin/options.php:983
+msgid "Widget Content"
+msgstr "小工具內容"
+
+#: admin/options.php:954
+msgid "Widget Title"
+msgstr "小工具標題"
+
+#: admin/options.php:925
+msgid "Main Menu"
+msgstr "主選單"
+
+#: admin/options.php:890 admin/options.php:919 admin/options.php:948
+#: admin/options.php:977 admin/options.php:1006 admin/options.php:1035
+#: admin/options.php:1064 admin/options.php:1094
+msgid "or enter Google Font Identifier"
+msgstr "或輸入 Google 字型代碼 (Font Identifier)"
+
+#: admin/options.php:889
+msgid "The fonts under the <em>Preferred Theme Fonts</em> list are recommended because they have all the font weights used throughout the theme."
+msgstr "建議使用在清單中<em>喜愛字型主題</em>，因為選擇使用的字型與粗細會使用在整個主題。"
+
+#: admin/options.php:859
+msgid "Secondary Accent"
+msgstr "次要文字色彩強調"
+
+#: admin/options.php:853
+msgid "Primary Accent"
+msgstr "主要文字色彩強調"
+
+#: admin/options.php:847
+msgid "Text Areas Background"
+msgstr "文字區域背景"
+
+#: admin/options.php:841
+msgid "Boxes Background"
+msgstr "框格背景"
+
+#: admin/options.php:835
+msgid "Blocks Background"
+msgstr "區塊背景"
+
+#: admin/options.php:823
+msgid "Footer Text"
+msgstr "頁尾文字"
+
+#: admin/options.php:817
+msgid "Footer Background"
+msgstr "頁尾背景"
+
+#: admin/options.php:811
+msgid "Submenu Background"
+msgstr "子選單背景"
+
+#: admin/options.php:805
+msgid "Submenu Text"
+msgstr "子選單文字"
+
+#: admin/options.php:799
+msgid "Menu Text"
+msgstr "選單文字"
+
+#: admin/options.php:793
+msgid "Header Background"
+msgstr "頁首背景"
+
+#: admin/options.php:780
+msgid "Overlay Color"
+msgstr "色彩重疊"
+
+#: admin/options.php:774
+msgid "Right Sidebar Background"
+msgstr "右側欄背景"
+
+#: admin/options.php:768
+msgid "Left Sidebar Background"
+msgstr "左側欄背景"
+
+#: admin/options.php:762
+msgid "Content Background"
+msgstr "內容背景"
+
+#: admin/options.php:756
+msgid "Content Headings"
+msgstr "內容標題"
+
+#: admin/options.php:750
+msgid "Site Text"
+msgstr "網站文字"
+
+#: admin/options.php:744
+msgid "Site Background"
+msgstr "網站背景"
+
+#: admin/options.php:735
+msgid "<br><br>Page properties that will be used:<br>- page title as text title<br>- page content as text content<br>- page featured image as text area background image"
+msgstr "<br><br>頁面內容會使用在：<br>- 頁面文字標題<br>- 頁面文字內容<br>- 頁面精選圖片文字區背景圖片"
+
+#: admin/options.php:708 admin/options.php:716 admin/options.php:724
+#: admin/options.php:732
+msgid "Text Area %d"
+msgstr "文字區域 %d"
+
+#: admin/options.php:700
+msgid "Content Length (words)"
+msgstr "內容長度（字數）"
+
+#: admin/options.php:690
+msgid "Read More Button"
+msgstr "閱讀更多按鈕"
+
+#: admin/options.php:684 admin/options.php:1150
+msgid "Static"
+msgstr "靜態"
+
+#: admin/options.php:684
+msgid "Animated"
+msgstr "動畫"
+
+#: admin/options.php:682
+msgid "Box Appearance"
+msgstr "框格外觀"
+
+#: admin/options.php:676
+msgid "Apart"
+msgstr "分散"
+
+#: admin/options.php:676
+msgid "Joined"
+msgstr "連接"
+
+#: admin/options.php:674
+msgid "Box Stacking"
+msgstr "框格集"
+
+#: admin/options.php:668
+msgid "Full width"
+msgstr "滿版"
+
+#: admin/options.php:666
+msgid "Box Layout"
+msgstr "框格外觀"
+
+#: admin/options.php:661
+msgid "In pixels. The width is a percentage dependent on total site width and number of columns per row."
+msgstr "以像素計算。寬度係指網站總寬度的百分比與每行列的總數。"
+
+#: admin/options.php:660
+msgid "Box Height"
+msgstr "框格高度"
+
+#: admin/options.php:649
+msgid "Boxes Per Row"
+msgstr "每行框格數"
+
+#: admin/options.php:643
+msgid "Number of Boxes"
+msgstr "框格數量"
+
+#: admin/options.php:632 admin/options.php:633
+msgid "All Categories"
+msgstr "所有類別"
+
+#: admin/options.php:631
+msgid "Boxes Content"
+msgstr "框格內容"
+
+#: admin/options.php:610
+msgid "Make icons clickable (linking to their respective pages)."
+msgstr "可按式圖示（連結到關聯頁面）。"
+
+#: admin/options.php:604
+msgid "Full Content"
+msgstr "完整內容"
+
+#: admin/options.php:604 admin/options.php:1382 admin/options.php:1398
+msgid "Excerpt"
+msgstr "摘要"
+
+#: admin/options.php:602
+msgid "Blocks Content"
+msgstr "區塊內容"
+
+#: admin/options.php:535 admin/options.php:552 admin/options.php:569
+#: admin/options.php:586
+msgid "Block %d"
+msgstr "區塊 %d"
+
+#: admin/options.php:529 admin/options.php:625
+msgid "Section Description"
+msgstr "區段描述"
+
+#: admin/options.php:523 admin/options.php:619
+msgid "Section Title"
+msgstr "區段標題"
+
+#: admin/options.php:502 admin/options.php:516
+msgid "Link"
+msgstr "連結"
+
+#: admin/options.php:493 admin/options.php:507
+msgid "CTA Button"
+msgstr "操作呼叫按鈕"
+
+#: admin/options.php:488 admin/options.php:495 admin/options.php:509
+msgid "Text"
+msgstr "文字"
+
+#: admin/options.php:481
+msgid "Title"
+msgstr "標題"
+
+#: admin/options.php:479
+msgid "Slider Caption"
+msgstr "幻燈片標題"
+
+#: admin/options.php:473
+msgid "Select the desired slider from the list. Sliders can be administered in the dashboard."
+msgstr "在清單中選擇想幻燈片。幻燈片可以在［控制台］中管理。"
+
+#: admin/options.php:472
+msgid " - No sliders defined - "
+msgstr " - 沒有指定幻燈片 - "
+
+#: admin/options.php:472
+msgid " - Please install, activate or update Serious Slider plugin - "
+msgstr " - 請安裝、啟用或更新 Serious Slider 外掛 - "
+
+#: admin/options.php:464
+msgid "Enter shortcode provided by slider plugin. The plugin will be responsible for the slider's appearance."
+msgstr "輸入幻燈片外掛提供的短代碼。外掛會負責顯示幻燈片的外觀。"
+
+#: admin/options.php:463
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: admin/options.php:456
+msgid "Slider Link"
+msgstr "幻燈片連結"
+
+#: admin/options.php:450
+msgid "The default image can be replaced by setting a new static image."
+msgstr "設定新的靜態圖片可取代預設圖片。"
+
+#: admin/options.php:449
+msgid "Slider Image"
+msgstr "幻燈片圖片"
+
+#: admin/options.php:444
+msgid "To create an advanced slider, use our <a href='%s' target='_blank'>Serious Slider</a> plugin or any other slider plugin."
+msgstr "建立進階幻燈片，使用我們的 <a href='%s' target='_blank'>Serious Slider</a> 外掛或任何其他幻燈片外掛。"
+
+#: admin/options.php:443
+msgid "Static Image"
+msgstr "靜態圖片"
+
+#: admin/options.php:443
+msgid "Use Shortcode"
+msgstr "使用短代碼"
+
+#: admin/options.php:443 admin/options.php:470
+msgid "Serious Slider"
+msgstr "Serious Slider"
+
+#: admin/options.php:432
+msgid "More Posts Label"
+msgstr "更多文章標籤"
+
+#: admin/options.php:425 admin/options.php:1323
+msgid "Posts"
+msgstr "文章"
+
+#: admin/options.php:425
+msgid "Static Page"
+msgstr "靜態頁面"
+
+#: admin/options.php:423
+msgid "Featured Content"
+msgstr "精選內容"
+
+#: admin/options.php:417
+msgid "use a static page"
+msgstr "使用靜態頁面"
+
+#: admin/options.php:417
+msgid "To activate the Landing Page, make sure to set the WordPress <strong>Front Page displays</strong> option to %s"
+msgstr "要啟用頁面樣式，必須先確認 WordPress 在［設定］標籤中的［閱讀］項目<strong>首頁顯示</strong>設定為 %s"
+
+#: admin/options.php:409
+msgid "Disabled (use WordPress homepage)"
+msgstr "停用（使用 WordPress 首頁）"
+
+#: admin/options.php:397
+msgid "Header Widget Alignment"
+msgstr "頁首小工具對齊"
+
+#: admin/options.php:390
+msgid "Header Widget Width"
+msgstr "頁首小工具寬度"
+
+#: admin/options.php:383
+msgid "Logo Image"
+msgstr "標示圖片"
+
+#: admin/options.php:377
+msgid "Show Tagline"
+msgstr "顯示標語"
+
+#: admin/options.php:371
+msgid "Empty"
+msgstr "空白"
+
+#: admin/options.php:371
+msgid "Logo & Site Title"
+msgstr "標示與網站標題"
+
+#: admin/options.php:371
+msgid "Logo"
+msgstr "標示"
+
+#: admin/options.php:371 admin/options.php:896
+msgid "Site Title"
+msgstr "網站標題"
+
+#: admin/options.php:369
+msgid "Site Header Content"
+msgstr "網站頁首內容"
+
+#: admin/options.php:363
+msgid "Header Image Behaviour"
+msgstr "頁首圖片呈現方式"
+
+#: admin/options.php:362 admin/options.php:1455
+msgid "Cropped"
+msgstr "裁剪"
+
+#: admin/options.php:355 admin/options.php:1448 admin/options.php:1472
+msgid "Changing this value may require to recreate your thumbnails."
+msgstr "變更這裡的數值可能需要重新建立您的縮圖。"
+
+#: admin/options.php:347
+msgid "Header Image Height (in pixels)"
+msgstr "頁首圖片高度（像素）"
+
+#: admin/options.php:339
+msgid "Menu Layout"
+msgstr "選單外觀"
+
+#: admin/options.php:338 admin/options.php:399 admin/options.php:1109
+msgid "Right"
+msgstr "靠右"
+
+#: admin/options.php:338 admin/options.php:399 admin/options.php:1109
+msgid "Left"
+msgstr "靠左"
+
+#: admin/options.php:331
+msgid "Menu Position"
+msgstr "選單位置"
+
+#: admin/options.php:330
+msgid "Over header image"
+msgstr "圖片橫跨頁首"
+
+#: admin/options.php:330
+msgid "Normal"
+msgstr "一般"
+
+#: admin/options.php:323
+msgid "Fixed Menu"
+msgstr "固定選單"
+
+#: admin/options.php:322 admin/options.php:409 admin/options.php:1426
+#: admin/options.php:1434
+msgid "Enabled"
+msgstr "啟用"
+
+#: admin/options.php:322 admin/options.php:425 admin/options.php:443
+#: admin/options.php:544 admin/options.php:545 admin/options.php:561
+#: admin/options.php:562 admin/options.php:578 admin/options.php:579
+#: admin/options.php:595 admin/options.php:596 admin/options.php:604
+#: admin/options.php:632 admin/options.php:633 admin/options.php:709
+#: admin/options.php:710 admin/options.php:717 admin/options.php:718
+#: admin/options.php:725 admin/options.php:726 admin/options.php:733
+#: admin/options.php:734 admin/options.php:1166 admin/options.php:1426
+#: admin/options.php:1434
+msgid "Disabled"
+msgstr "停用"
+
+#: admin/options.php:315
+msgid "Header/Menu Height"
+msgstr "頁首／選單高度"
+
+#: admin/options.php:305
+msgid "Footer Widgets Alignment"
+msgstr "頁尾小工具對齊"
+
+#: admin/options.php:304 admin/options.php:338 admin/options.php:399
+#: admin/options.php:1109
+msgid "Center"
+msgstr "置中"
+
+#: admin/options.php:304 admin/options.php:1109
+msgid "Default"
+msgstr "預設"
+
+#: admin/options.php:295
+msgid "Footer Widgets Columns"
+msgstr "頁尾小工具欄位"
+
+#: admin/options.php:286
+msgid "Post/page padding"
+msgstr "文章／頁面邊界間距"
+
+#: admin/options.php:277
+msgid "Three columns"
+msgstr "三欄"
+
+#: admin/options.php:273
+msgid "Two columns"
+msgstr "二欄"
+
+#: admin/options.php:269
+msgid "One column"
+msgstr "一欄"
+
+#: admin/options.php:266
+msgid "Posts Layout"
+msgstr "文章外觀"
+
+#: admin/options.php:238 admin/options.php:668
+msgid "Boxed"
+msgstr "固定框架"
+
+#: admin/options.php:238
+msgid "Wide"
+msgstr "滿版橫幅"
+
+#: admin/options.php:236
+msgid "Theme alignment"
+msgstr "主題對齊"
+
+#: admin/options.php:227
+msgid "Three columns, one sidebar on each side"
+msgstr "三行式，兩邊個有一個側欄"
+
+#: admin/options.php:223
+msgid "Three columns, sidebars on the left"
+msgstr "三行式，側欄在左邊"
+
+#: admin/options.php:219
+msgid "Three columns, sidebars on the right"
+msgstr "三行式，側欄在右邊"
+
+#: admin/options.php:215
+msgid "Two columns, sidebar on the left"
+msgstr "兩行式，側欄在左邊"
+
+#: admin/options.php:211
+msgid "Two columns, sidebar on the right"
+msgstr "兩行式，側欄在右邊"
+
+#: admin/options.php:207
+msgid "One column (no sidebars)"
+msgstr "單行式（無側欄）"
+
+#: admin/options.php:204
+msgid "Main Layout"
+msgstr "主要外觀"
+
+#: admin/options.php:185
+msgid "Miscellaneous"
+msgstr "輔助功能"
+
+#: admin/options.php:183
+msgid "Continue reading link text "
+msgstr "繼續閱讀連結文字"
+
+#: admin/options.php:182
+msgid "Excerpt suffix"
+msgstr "摘要末端符號"
+
+#: admin/options.php:181
+msgid "Post Excerpt Length "
+msgstr "文章摘要長度"
+
+#: admin/options.php:180
+msgid "Archive and Category Pages"
+msgstr "彙整與類別頁面"
+
+#: admin/options.php:179
+msgid "Sticky Posts"
+msgstr "固定文章"
+
+#: admin/options.php:178
+msgid "Home Page"
+msgstr "首頁"
+
+#: admin/options.php:176 includes/comments.php:88
+msgid "Comments"
+msgstr "迴響"
+
+#: admin/options.php:175
+msgid "Excerpts"
+msgstr "摘錄"
+
+#: admin/options.php:163
+msgid "Header Titles"
+msgstr "頁首標題"
+
+#: admin/options.php:174
+msgid "Meta Information"
+msgstr "摘要訊息"
+
+#: admin/options.php:173
+msgid "Featured Image"
+msgstr "精選圖片"
+
+#: admin/options.php:170 admin/options.php:1874
+msgid "Footer"
+msgstr "頁尾"
+
+#: admin/options.php:168
+msgid "Content"
+msgstr "內容"
+
+#: admin/options.php:166 includes/setup.php:57
+msgid "Social Icons"
+msgstr "社群圖示"
+
+#: admin/options.php:165
+msgid "Search Box Locations"
+msgstr "搜尋框位置"
+
+#: admin/options.php:164
+msgid "Content Images"
+msgstr "內容圖片"
+
+#: admin/options.php:162
+msgid "Decorations"
+msgstr "摘要效果"
+
+#: admin/options.php:161
+msgid "Structure"
+msgstr "外觀結構"
+
+#: admin/options.php:159
+msgid "Formatting"
+msgstr "段落格式"
+
+#: admin/options.php:158
+msgid "Content Fonts"
+msgstr "內容字型"
+
+#: admin/options.php:157
+msgid "Widget Fonts"
+msgstr "小工具字型"
+
+#: admin/options.php:156
+msgid "Header Fonts"
+msgstr "頁首字型"
+
+#: admin/options.php:155 admin/options.php:867
+msgid "General Font"
+msgstr "一般字型"
+
+#: admin/options.php:153
+msgid "Text Areas"
+msgstr "文字區域"
+
+#: admin/options.php:152
+msgid "Featured Boxes Bottom"
+msgstr "精選框格底部"
+
+#: admin/options.php:151
+msgid "Featured Boxes Top"
+msgstr "精選框格頂端"
+
+#: admin/options.php:150
+msgid "Featured Icon Blocks"
+msgstr "精選區塊區段"
+
+#: admin/options.php:149 admin/options.php:441
+msgid "Slider"
+msgstr "幻燈片"
+
+#: admin/options.php:148
+msgid "Settings"
+msgstr "設定"
+
+#: admin/options.php:146 admin/options.php:169 admin/options.php:1896
+msgid "Header"
+msgstr "頁首設定"
+
+#: admin/options.php:144
+msgid "Layout"
+msgstr "主題外觀"
+
+#: admin/options.php:135
+msgid "Post Information"
+msgstr "文章訊息"
+
+#: admin/options.php:134
+msgid "Typography"
+msgstr "字型樣式"
+
+#: admin/options.php:133
+msgid "Colors"
+msgstr "色彩設定"
+
+#: admin/options.php:132
+msgid "General"
+msgstr "一般設定"
+
+#: admin/options.php:131 admin/options.php:171 admin/options.php:407
+msgid "Landing Page"
+msgstr "頁面樣式"
+
+#: admin/options.php:111 admin/options.php:130
+msgid "Site Identity"
+msgstr "網站識別"
+
+#: admin/options.php:104
+msgid "Header Image Settings."
+msgstr "頁首圖片設定。"
+
+#: admin/options.php:103 admin/options.php:443
+msgid "Header Image"
+msgstr "頁首圖片"
+
+#: admin/options.php:96
+msgid "Background Settings."
+msgstr "背景設定。"
+
+#: admin/options.php:95
+msgid "Background"
+msgstr "背景"
+
+#: admin/options.php:81
+msgid "Rate %s on WordPress.org"
+msgstr "在 WordPress.org %s 評分"
+
+#: admin/options.php:55
+msgid "About"
+msgstr "關於"
+
+#: admin/main.php:166
+msgid "Theme Updates"
+msgstr "主題更新"
+
+#: admin/main.php:131
+msgid "Reset to Defaults"
+msgstr "重設至預設值"
+
+#: admin/main.php:127 admin/options.php:87
+msgid "Manage Theme Settings"
+msgstr "管理主題設定"
+
+#: admin/main.php:122
+msgid "Customize %s"
+msgstr "自訂 %s"
+
+#: admin/main.php:109 admin/options.php:75
+msgid "Priority Support"
+msgstr "優先支援"
+
+#: admin/main.php:108 admin/options.php:69
+msgid "Browse the Forum"
+msgstr "瀏覽支援討論"
+
+#: admin/main.php:107 admin/options.php:63
+msgid "Read the Docs"
+msgstr "閱讀說明文件"
+
+#: admin/main.php:93
+msgid "Anima settings have been reset successfully."
+msgstr "Anima 設定已經成功重設。"
+
+#: admin/main.php:85
+msgid "Anima settings loaded successfully."
+msgstr "Anima 設定成功載入。"
+
+#: admin/main.php:76
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr "抱歉，您沒有足夠的存取此頁的權限。"
+
+#: admin/main.php:65 admin/main.php:100
+msgid "Anima Theme"
+msgstr "Anima 主題"
+
+#: admin/main.php:57
+msgid "Reset Anima Settings to Defaults?"
+msgstr "要重設 Anima 設定至預設值？"
+
+#: 404.php:15
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "很抱歉，您要求的頁面沒有找到。也許嘗試搜尋會有幫助。"
+
+#: 404.php:14 includes/core.php:193 includes/core.php:408
+msgid "Not Found"
+msgstr "找不到"
+
+#. Author URI of the plugin/theme
+msgid "http://www.cryoutcreations.eu"
+msgstr "http://www.cryoutcreations.eu"
+
+#. Author of the plugin/theme
+msgid "Cryout Creations"
+msgstr "Cryout Creations"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.cryoutcreations.eu/wordpress-themes/anima"
+msgstr "http://www.cryoutcreations.eu/wordpress-themes/anima"
